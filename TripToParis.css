@@ -13,6 +13,26 @@ h1{
     font-size: 3.5rem;
     font-weight: bolder
 }
+.headerContainer{
+    justify-content: center;
+    display: flex;
+}
+.one  {
+color: white;
+font-weight: lighter;
+text-decoration: line-through  black;
+
+}
+.two{
+    color: white;
+font-weight: lighter;
+text-decoration: line-through  black;
+}
+
+
+
+
+
 p{
 font-size: 2rem;
 text-align: center;
